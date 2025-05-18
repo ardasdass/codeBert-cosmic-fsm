@@ -9,9 +9,10 @@ This repository contains the implementation, experiments, and report for the **g
 ```
 ├── codebert_cosmic_fsm.py      # Main training & evaluation script
 └── content/
-    ├── codesearchnet_python.csv    # Raw dataset (first 2,000 samples from CodeSearchNet)
     ├── training_stats_without_comments.csv  
     ├── codebert_best_model_without_comments.pt
+    └── data/
+        └── codesearchnet_python.csv    # Raw dataset (first 2,000 samples from CodeSearchNet)
     └── results/
         └── predictions_<N>_without_comments.csv
 ```
