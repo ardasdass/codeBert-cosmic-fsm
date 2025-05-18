@@ -1,6 +1,6 @@
 # CodeBERT-COSMIC-FSM: Graduation Thesis - Automated Software Size Estimation from Source Code
 
-This repository contains the implementation, experiments, and report for the **graduation thesis** submitted in partial fulfillment of the requirements for the Bachelor's degree in Computer Engineering at Boğaziçi University. The project uses a pretrained CodeBERT model to estimate software size metrics (COSMIC Functional Size Measurement) directly from Python source code, offering an automated alternative to traditional requirement-document-based estimation.
+This repository contains the implementation, experiments, and report for the **graduation thesis** submitted in partial fulfillment of the requirements for the Bachelor's degree in Computer Engineering at IZTECH. The project uses a pretrained CodeBERT model to estimate software size metrics (COSMIC Functional Size Measurement) directly from Python source code, offering an automated alternative to traditional requirement-document-based estimation.
 
 ---
 
