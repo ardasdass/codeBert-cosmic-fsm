@@ -8,11 +8,12 @@ This repository contains the implementation, experiments, and report for the **g
 
 ```
 ├── codebert_cosmic_fsm.py      # Main training & evaluation script
-├── codesearchnet_python.csv    # Raw dataset (first 2,000 samples from CodeSearchNet)
-├── training_stats_without_comments.csv  
-├── codebert_best_model_without_comments.pt
-└── results/
-    └── predictions_<N>_without_comments.csv
+└── content/
+    ├── codesearchnet_python.csv    # Raw dataset (first 2,000 samples from CodeSearchNet)
+    ├── training_stats_without_comments.csv  
+    ├── codebert_best_model_without_comments.pt
+    └── results/
+        └── predictions_<N>_without_comments.csv
 ```
 
 ---
@@ -132,16 +133,6 @@ Refer to the printed logs and generated CSV for detailed numbers and visualizati
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/xyz`)  
-3. Commit your changes (`git commit -m "Add xyz"`)  
-4. Push to your fork (`git push origin feature/xyz`)  
-5. Open a Pull Request  
-
----
-
 ## 📜 Thesis & License
 
 This thesis is submitted in partial fulfillment of the requirements for the Bachelor's degree in Computer Engineering at Boğaziçi University. The code and accompanying materials are released for academic and research purposes under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. For commercial use or other permissions, please contact the author.
@@ -150,4 +141,4 @@ This thesis is submitted in partial fulfillment of the requirements for the Bach
 
 ## ✉️ Contact
 
-For questions or collaboration, please open an issue or contact **Your Name** at **your.email@example.com**.
+For questions or collaboration, please open an issue or contact **Bedir Arda Gül** at **bedirardagul@gmail.com**.
